@@ -16,6 +16,7 @@
 
    * **Username:** `<your-lab>`
    * **Password:** `<your-password>`
+   
      You can add your personal account later (see *User-Level Provisioning*). Changing the primary sudo user later is painful and requires low-level OS configuration with a temporary user.
 
 4. **Clone this repo and register MACs:**
