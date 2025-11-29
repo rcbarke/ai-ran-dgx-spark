@@ -14,8 +14,8 @@
 
 3. **Provision the *shared lab* admin account (do not bind sudo to a personal account):**
 
-   * **Username:** <your-lab>
-   * **Password:** <your-password>
+   * **Username:** `<your-lab>`
+   * **Password:** `<your-password>`
      You can add your personal account later (see *User-Level Provisioning*). Changing the primary sudo user later is painful and requires low-level OS configuration with a temporary user.
 
 4. **Clone this repo and register MACs:**
