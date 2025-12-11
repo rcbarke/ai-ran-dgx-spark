@@ -10,7 +10,7 @@ The Spark is allocated an IP via **DHCP**. CCIT has advised the address will **p
 
 ### DGX Spark 1
 - **IP:** `A.B.C.D`
-- **Hostname:** `spark-ecf8`
+- **Hostname:** `spark-XXXX`
 - **Username:** `<your-username>` 
 - **Password:** `<your-password>`
 
