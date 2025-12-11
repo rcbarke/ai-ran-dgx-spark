@@ -1,8 +1,8 @@
 # NVIDIA Aerial™ CUDA-Accelerated RAN (ACAR) — Vendor Source Reference
 
 > **IMPORTANT:**  
-> **NVIDIA AERIAL™ CUDA-ACCELERATED RAN (ACAR) IS _NOT_ OPEN SOURCE.**  
-> **ACCESS VIA NVIDIA's 6G DEVELOPER PROGRAM**
+> **NVIDIA AERIAL™ CUDA-ACCELERATED RAN (ACAR) IS _PARTIALLY_ OPEN SOURCE.**  
+> **ACCESS LICENSED COMPONENTS VIA NVIDIA's 6G DEVELOPER PROGRAM**
 [https://developer.nvidia.com/6g-program](https://developer.nvidia.com/6g-program)
 
 No source code is provided within this public repository.
