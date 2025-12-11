@@ -6,5 +6,6 @@
 [https://developer.nvidia.com/6g-program](https://developer.nvidia.com/6g-program)
 
 No source code is provided within this public repository.
-1. ACAR is planned to be open-sourced December 2025.
-2. AODT is planned to be open-sourced March 2025.
+1. ACAR is now open-sourced here: [https://github.com/NVIDIA/aerial-cuda-accelerated-ran](https://github.com/NVIDIA/aerial-cuda-accelerated-ran)
+2. Aerial Framework (for Tensor-RT optimization and Real-Time deployment) is now open-sourced here [https://github.com/NVIDIA/aerial-framework](https://github.com/NVIDIA/aerial-framework) 
+3. AODT is planned to be open-sourced Q1 2026, subject to potential change within NVIDIA's Roadmap.
