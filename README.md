@@ -162,7 +162,7 @@ Let's accelerate the RAN.
 ---
 
 ## Three-Computer Framework — How this repo maps to NVIDIA’s 6G Stack
-### Inspired by: Dr. Joseph Boccuzzi, Principal Network Architect, NVIDIA AI Aerial
+### Inspired by: ``AI-Native Wireless Communications'' by NVIDIA Aerial
 
 See the full guide: [`THREE_COMPUTER_FRAMEWORK.md`](./THREE_COMPUTER_FRAMEWORK.md). 
 
