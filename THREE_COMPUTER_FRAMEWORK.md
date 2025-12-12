@@ -3,7 +3,7 @@
 
 **Based on:** AI Native Wireless Communications
 
-**By:** Dr. Joseph Boccuzzi, Principal Network Architect, NVIDIA AI Aerial
+**By:** NVIDIA AI Aerial Team
 
 This framework turns models into RAN features by moving them through **Design/Training → Digital Twin (DT) Simulation → End‑to‑End (E2E) Deployment**, while keeping one code path and measurable timing at every step. It operationalizes the “three‑computer” development loop formalized by the NVIDIA AI Aerial team.
 
