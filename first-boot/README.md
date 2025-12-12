@@ -22,8 +22,8 @@
 4. **Clone this repo and register MACs:**
 
    ```bash
-   https://github.com/rcbarke/aerial-dgx-spark
-   cd aerial-dgx-spark
+   https://github.com/rcbarke/ai-ran-dgx-spark
+   cd ai-ran-dgx-spark
    ./first-boot/display_ethernet_mac.sh
    ```
 
