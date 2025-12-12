@@ -1,5 +1,7 @@
 # Aerial Omniverse Digital Twin (AODT)
 
+## **IMPORTANT: Per the below documentation, there is not yet a DGX or ARM installation path within the AODT installation documentation. NVIDIA's AODT team advised [here](https://forums.developer.nvidia.com/t/aerial-omniverse-digital-twin-installer-403-unauthorized-on-ngc-dell-pathway/354367/2) that DGX support is anticipated in future releases. Please reference the formal hardware recommendations for AODT on NVIDIA's documentation, which is up to date.**
+
 **Download Link:**
 
 * [Aerial Omniverse Digital Twin Collection on NGC](https://registry.ngc.nvidia.com/orgs/esee5uzbruax/collections/aerial-omniverse-digital-twin)
